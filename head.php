@@ -11,4 +11,5 @@
     <link rel="stylesheet" href="assets/css/customizer.min.css" />
     <link rel="stylesheet" href="assets/css/rtl.min.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.4/css/select2.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/ag-charts-community/dist/umd/ag-charts-community.js"></script>
 </head>

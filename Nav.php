@@ -1,5 +1,5 @@
 <?php
-require_once 'session.php'
+//require_once 'session.php'
 ?>
 <nav class="nav navbar navbar-expand-lg navbar-light iq-navbar">
     <div class="container-fluid navbar-inner">
@@ -33,9 +33,9 @@ require_once 'session.php'
                     <li class="nav-item dropdown">
                         <a class="py-0 nav-link d-flex align-items-center" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             <img src="assets/images/avatars/01.png" alt="User-Profile" class="theme-color-default-img img-fluid avatar avatar-50 avatar-rounded">
-                            <div class="caption ms-3 d-none d-md-block ">
+                            <!-- <div class="caption ms-3 d-none d-md-block ">
                                 <h6 class="mb-0 caption-title"><?php echo $json['firstname_EN']; ?></h6>
-                            <p class="mb-0 caption-sub-title"><?php echo $json['organization_name_EN']; ?></p>
+                            <p class="mb-0 caption-sub-title"><?php echo $json['organization_name_EN']; ?></p> -->
                             </div>
                         </a>
                         <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
