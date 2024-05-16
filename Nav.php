@@ -55,7 +55,6 @@
                     <div>
                         <h1>International Collaboration Database</h1>
                     </div>
-
                 </div>
             </div>
         </div>
